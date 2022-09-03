@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/panecatl/social-network-api#readme",
   "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.27.0",
     "mongoose": "^6.5.3"
   }
 }
