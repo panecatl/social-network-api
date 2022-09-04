@@ -1,4 +1,3 @@
-const { reset } = require('nodemon');
 const { Users } = require('../models');
 
 const userController = {
